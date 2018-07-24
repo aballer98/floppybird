@@ -1,0 +1,11 @@
+body{
+ text-align: center;
+ background-image: url('https://img00.deviantart.net/852c/i/2014/046/b/7/flappy_bird_background_by_drunkvikings-d76jsuh.jpg');
+
+}
+
+#game{
+    max-width: 100%;
+    width: 35%;
+    
+}
